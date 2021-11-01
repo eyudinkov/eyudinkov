@@ -27,4 +27,4 @@ Listed below are the tools and technologies that I use and I'm knowledgeable wit
 
 I have worked on many important projects throughout my career. What’s really crucial for me when starting one is to get very clear on the goals right at the start and then create a plan with milestones. I also like dealing with the most difficult parts of the projects early on—that way in case there are any significant issues, I’ll still have a nice amount of time to complete before the deadline. I also typically break down large tasks into smaller chunks, so that it is easier to know where to start. Detailed planning is very important to ensure an important project goes smoothly.
 
-If you'd like to see some of my code please contact me through the telegram - @eyudinkov
+If you'd like to see some of my production code please contact me through any available resources
