@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduard Yudinkov, a 26-year-old Russian Front-end developer who likes to create digital products.
+- 👋 Hi, I’m Eduard Yudinkov, a Fullstack developer who likes to create digital products.
 - 👀 I’m interested in ambitious or large projects.
 - 🌱 I’m currently learning Golang, Scala and R.
 - 📫 You can contact me through [my website](https://yudinkov.dev/) or email - hello.yudinkov@gmail.com
