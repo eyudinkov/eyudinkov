@@ -9,7 +9,7 @@ I am ambitious and driven. I thrive on challenges and constantly set goals for m
 
 # My hobbies
 
-Since childhood, I like to draw and design digital products. When I studied at university I worked as a designer and created game concepts for different clients from around the world. I also like hiking and open-air activities. Sometimes I like to create electronic music and mixes.
+Since childhood, I've like to draw and design digital products. When I studied at university I worked as a designer and created game concepts for different clients from around the world. I also like hiking and open-air activities. Sometimes I like to create electronic music and mixes.
 
 # My primary skils
 
