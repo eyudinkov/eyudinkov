@@ -9,7 +9,7 @@ I am ambitious and driven. I thrive on challenges and constantly set goals for m
 
 # My hobbies
 
-Since childhood, I've like to draw and design digital products. When I studied at university I worked as a designer and created game concepts for different clients from around the world. I also like hiking and open-air activities. Sometimes I like to create electronic music and mixes.
+When I am not writing code or writing about writing code, I enjoy traveling, detective movies and drawing. I also like hiking and open-air activities. I also like hiking and open-air activities. Sometimes I like to create electronic music and mixes.
 
 # My primary skils
 
@@ -25,6 +25,13 @@ Listed below are the tools and technologies that I use and I'm knowledgeable wit
 8. React Native
 9. Python
 
-I have worked on many important projects throughout my career. What’s really crucial for me when starting one is to get very clear on the goals right at the start and then create a plan with milestones. I also like dealing with the most difficult parts of the projects early on—that way in case there are any significant issues, I’ll still have a nice amount of time to complete before the deadline. I also typically break down large tasks into smaller chunks, so that it is easier to know where to start. Detailed planning is very important to ensure an important project goes smoothly.
+I have worked on many important projects throughout my career. What’s really crucial for me when starting one is to get very clear on the goals right at the start and then create a plan with milestones. I also like dealing with the most difficult parts of the projects early on—that way in case there are any significant issues, I’ll still have a nice amount of time to complete before the deadline. I also typically break down large tasks into smaller chunks, so that it is easier to know where to start. I think detailed planning is very important to ensure an important project goes smoothly. 
+
+In addition to my main job, I also work as a teacher, article writer, and open source
+contributor. Here is a couple of links you might be interested in:
+
+I act as a mentor on [Solvery](https://solvery.io/ru/mentor/anstertum), having already held 130+ mentorship sessions
+I open-sourced [Editor-Creator](https://www.npmjs.com/package/editor-creator) on NPM
+I published several articles on Habr, please see [this](https://habr.com/ru/post/599029/) and [this](https://habr.com/ru/post/650175/)
 
 If you'd like to see some of my production code please contact me through any available resources
