@@ -30,8 +30,8 @@ I have worked on many important projects throughout my career. What’s really c
 In addition to my main job, I also work as a teacher, article writer, and open source
 contributor. Here is a couple of links you might be interested in:
 
-I act as a mentor on [Solvery](https://solvery.io/ru/mentor/anstertum), having already held 130+ mentorship sessions
-I open-sourced [Editor-Creator](https://www.npmjs.com/package/editor-creator) on NPM
-I published several articles on Habr, please see [this](https://habr.com/ru/post/599029/) and [this](https://habr.com/ru/post/650175/)
+- I act as a mentor on [Solvery](https://solvery.io/ru/mentor/anstertum), having already held 130+ mentorship sessions
+- I open-sourced [Editor-Creator](https://www.npmjs.com/package/editor-creator) on NPM
+- I published several articles on Habr, please see [this](https://habr.com/ru/post/599029/) and [this](https://habr.com/ru/post/650175/)
 
 If you'd like to see some of my production code please contact me through any available resources
