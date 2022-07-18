@@ -33,5 +33,6 @@ contributor. Here are a couple of links you might be interested in:
 - I act as a mentor on [Solvery](https://solvery.io/ru/mentor/anstertum), having already held 130+ mentorship sessions
 - I open-sourced [Editor-Creator](https://www.npmjs.com/package/editor-creator) on NPM
 - I published several articles on Habr, please see [this](https://habr.com/ru/post/599029/) and [this](https://habr.com/ru/post/650175/)
+- I wrote a paper regarding the [implementation methods of an application program interface for manipulators](https://www.researchgate.net/publication/334850329_The_Implementation_Method_of_Application_Program_Interface_for_Manipulator_Mitsubishi_RV-2FB)
 
 If you'd like to see some of my production code please contact me through any available resources
