@@ -15,15 +15,16 @@ When I am not writing code or writing about writing code, I enjoy traveling, det
 
 Listed below are the major tools and technologies that I use and I'm knowledgeable with.
 
-1. Javascript and CSS
+1. Javascript, CSS, and Typescript
 2. Angular
 3. Reactjs
-4. Svelte
+4. Redux, MobX, NgRX
 5. Nodejs
-6. Nest
+6. NestJS, Gatsby
 7. Flutter
 8. React Native
-9. Python
+9. Python, Golang
+10. Postgres, SQL, GraphQL
 
 I have worked on many important projects throughout my career. I’ve gained my major experience working on B2B, B2C, and G2C projects and contributing to the growth of unique tech companies. I enjoy developing solutions that make products and services work for the right audiences. What’s really crucial for me when starting a project is to get very clear on the goals right at the start and then create a plan with milestones. I think detailed planning is very important to ensure that a project will go smoothly.
 
