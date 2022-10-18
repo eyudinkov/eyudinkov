@@ -25,7 +25,7 @@ Listed below are the major tools and technologies that I use and I'm knowledgeab
 8. React Native
 9. Python
 
-I have worked on many important projects throughout my career. I’ve gained my major experience working on B2B and B2C projects and contributing to the growth of unique tech companies. I enjoy developing solutions that make products and services work for the right audiences. What’s really crucial for me when starting a project is to get very clear on the goals right at the start and then create a plan with milestones. I think detailed planning is very important to ensure that a project will go smoothly.
+I have worked on many important projects throughout my career. I’ve gained my major experience working on B2B, B2C, and G2C projects and contributing to the growth of unique tech companies. I enjoy developing solutions that make products and services work for the right audiences. What’s really crucial for me when starting a project is to get very clear on the goals right at the start and then create a plan with milestones. I think detailed planning is very important to ensure that a project will go smoothly.
 
 In addition to my main job, I also work as a teacher, article writer, and open source
 contributor. Here are a couple of links you might be interested in:
