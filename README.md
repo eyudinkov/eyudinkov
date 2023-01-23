@@ -1,39 +1,105 @@
+# About me 🐱
+
+Welcome here 👋
+
+<img align="right" width="300" src="https://yudinkov.dev/static/840bd3a225eb47bdb6ae880e98008d2e/c9c5b/me.png" />
+
 - 👋 Hi, I’m Eduard Yudinkov, a Software developer who likes to create digital products
 - 👀 I’m interested in ambitious and large projects
-- 🌱 I’m currently learning Golang, Scala, and R
-- 📫 You can contact me through [my website](https://yudinkov.dev/) or email - hello.yudinkov@gmail.com
+- 🌱 I’m currently learning Scala, and R
 
-# What can I say about myself?
+🔗 &nbsp;**Contacts**
+- ✉️ [hello.yudinkov@gmail.com](mailto:hello.yudinkov@gmail.com)
+- 📫 [https://yudinkov.dev](https://yudinkov.dev/) 
+- 🧑‍💻 [https://www.linkedin.com/in/edward-yudinkov-53315a175/](https://www.linkedin.com/in/edward-yudinkov-53315a175/) 
+- 💬 [https://t.me/eyudinkov](https://t.me/eyudinkov)
 
-I am ambitious and driven. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I’m not comfortable with settling, and I’m always looking for an opportunity to do better.
+✏️ &nbsp;**Posts**
+- [Canvas Basics](https://habr.com/ru/post/650175/)
+- [Implementation of an approach to scanning objects with a remote scanner)](https://habr.com/ru/post/624255/)
+- [Implementation of an automated information and control system for tracking an object with specified parameters](https://vc.ru/dev/337286-realizaciya-avtomatizirovannoy-informacionno-upravlyayushchey-sistemy-slezheniya-za-obektom-s-zadannymi-parametrami)
 
-# My hobbies
+🧑‍🔬 &nbsp;**Scientific contributions**
+- [The Implementation Method of Application Program Interface for Manipulator Mitsubishi RV-2FB](https://www.researchgate.net/publication/334850329_The_Implementation_Method_of_Application_Program_Interface_for_Manipulator_Mitsubishi_RV-2FB)
+- [LibSL: Development of Applied Programming Interface for Control of Manipulator Mitsubishi RV-2FB](https://www.researchgate.net/publication/325827008_LibSL_Development_of_Applied_Programming_Interface_for_Control_of_Manipulator_Mitsubishi_RV-2FB)
 
-When I am not writing code or writing about writing code, I enjoy traveling, detective stories, and drawing. I also like hiking and open-air activities. Sometimes I like to create electronic music and mixes.
+🎤 &nbsp;**Conferences and public speaking**
+- [The Implementation Method of Application Program Interface for Manipulator Mitsubishi RV-2FB](https://ieeexplore.ieee.org/document/8725388)
+- [Tech Interview Fest | Solvery](https://www.youtube.com/watch?v=N1gKaF6BhDc)
+- [Mentor week | Solvery](https://www.instagram.com/p/ClT4QuZJgmp/?igshid=YWJhMjlhZTc=)
 
-# My primary skils
 
-Listed below are the major tools and technologies that I use and I'm knowledgeable with.
+🔧 &nbsp;**Major tools and technologies**
+<table>
+  <tr>
+    <td>Languages and libraries</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+   <td>Dev</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+    </td>
+  </tr>
+  <tr>
+   <td>Clouds</td>
+    <td>
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+    </td>
+ </tr>
+</table>
 
-1. Javascript, CSS, and Typescript
-2. Angular
-3. Reactjs
-4. Redux, MobX, NgRX
-5. Nodejs
-6. NestJS, Gatsby
-7. Flutter
-8. React Native
-9. Python, Golang
-10. Postgres, SQL, GraphQL
+✨ &nbsp;**About me**
 
-I have worked on many important projects throughout my career. I’ve gained my major experience working on B2B, B2C, and G2C projects and contributing to the growth of unique tech companies. I enjoy developing solutions that make products and services work for the right audiences. What’s really crucial for me when starting a project is to get very clear on the goals right at the start and then create a plan with milestones. I think detailed planning is very important to ensure that a project will go smoothly.
+I am a senior software engineer with seven years of professional experience in software development. I have led a remote dev team for more than three years, during which time I built fullstack systems for API-driven B2B, B2C and G2C applications and workflow automation. I am proficient with modern development processes and well experienced in practices such as agile methodology, version control systems (VCS), test-driven development (TDD), continuous integration \ delivery (CI/CD). Therefore, I prefer to build systems from scratch: designing architecture, selecting the technology stack; setting up workflows for the team; configuring deployment processes.
+
+My bachelor's degree in mechatronics and robotics, along with years of experience, has given me a deep understanding of web technologies, protocols, algorithms, and data structures.
+
+📖 &nbsp;**Education**
+
+Bachelor's degree | Mechatronics and Robotics – Far Eastern Federal University
+
+🎮 &nbsp;**Hobbies**
+
+When I am not writing code or writing about writing code, I enjoy traveling, detective stories, and drawing. I also like hiking and open-air activities.
+
+➕ &nbsp;**Additions**
 
 In addition to my main job, I also work as a teacher, article writer, and open source
 contributor. Here are a couple of links you might be interested in:
 
-- I act as a mentor on [Solvery](https://solvery.io/ru/mentor/anstertum), having already held 130+ mentorship sessions
+- I act as a mentor on [Solvery](https://solvery.io/ru/mentor/anstertum), having already held 155+ mentorship sessions
 - I open-sourced [Editor-Creator](https://www.npmjs.com/package/editor-creator) on NPM
-- I published several articles on Habr, please see [this](https://habr.com/ru/post/599029/) and [this](https://habr.com/ru/post/650175/)
-- I wrote a paper regarding the [implementation methods of an application program interface for manipulators](https://www.researchgate.net/publication/334850329_The_Implementation_Method_of_Application_Program_Interface_for_Manipulator_Mitsubishi_RV-2FB)
 
 If you'd like to see some of my production code please contact me through any available resources
