@@ -16,6 +16,7 @@ Welcome here 👋
 
 ✏️ &nbsp;**Posts**
 - [Canvas Basics](https://habr.com/ru/post/650175/)
+- [Canvas Basics | Part 2](https://habr.com/ru/post/712808/)
 - [Implementation of an approach to scanning objects with a remote scanner)](https://habr.com/ru/post/624255/)
 - [Implementation of an automated information and control system for tracking an object with specified parameters](https://vc.ru/dev/337286-realizaciya-avtomatizirovannoy-informacionno-upravlyayushchey-sistemy-slezheniya-za-obektom-s-zadannymi-parametrami)
 
