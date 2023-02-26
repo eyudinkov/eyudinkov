@@ -18,6 +18,7 @@ Welcome here 👋
 - [Canvas Basics](https://habr.com/ru/post/650175/)
 - [Canvas Basics | Part 2](https://habr.com/ru/post/712808/)
 - [Creating the effect of traveling through space](https://dev.to/eyudinkov/creating-the-effect-of-traveling-through-space-mfg)
+- [How to create and visualize a cardioid using javascript](https://dev.to/eyudinkov/how-to-create-and-visualize-a-cardioid-using-javascript-33l4)
 - [Implementation of an approach to scanning objects with a remote scanner)](https://habr.com/ru/post/624255/)
 - [Implementation of an automated information and control system for tracking an object with specified parameters](https://vc.ru/dev/337286-realizaciya-avtomatizirovannoy-informacionno-upravlyayushchey-sistemy-slezheniya-za-obektom-s-zadannymi-parametrami)
 
