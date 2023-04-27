@@ -11,7 +11,7 @@ Welcome here 👋
 🔗 &nbsp;**Contacts**
 - ✉️ [hello.yudinkov@gmail.com](mailto:hello.yudinkov@gmail.com)
 - 📫 [https://yudinkov.dev](https://yudinkov.dev/) 
-- 🧑‍💻 [https://www.linkedin.com/in/edward-yudinkov-53315a175/](https://www.linkedin.com/in/edward-yudinkov-53315a175/) 
+- 🧑‍💻 [https://www.linkedin.com/in/eduard-yudinkov-53315a175/](https://www.linkedin.com/in/eduard-yudinkov-53315a175/) 
 - 💬 [https://t.me/eyudinkov](https://t.me/eyudinkov)
 
 ✏️ &nbsp;**Posts**
