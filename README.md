@@ -6,7 +6,7 @@ Welcome here 👋
 
 - 👋 Hi, I’m Eduard Yudinkov, a Software developer who likes to create digital products
 - 👀 I’m interested in ambitious and large projects
-- 🌱 I’m currently learning Scala, and R
+- 🌱 I’m currently learning Rust
 
 🔥LeetCode
 
@@ -56,7 +56,6 @@ Welcome here 👋
       <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
       <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
       <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-      <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     </td>
   </tr>
   <tr>
